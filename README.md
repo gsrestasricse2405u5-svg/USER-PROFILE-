@@ -8,6 +8,8 @@ My skills include:-
 ![Static Badge](https://img.shields.io/badge/C-orange)
 ![Static Badge](https://img.shields.io/badge/java-pink)
 ![Static Badge](https://img.shields.io/badge/python-blue)
+![Static Badge](https://img.shields.io/badge/DS-skyblue)
+
 
 
 
