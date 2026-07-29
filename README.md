@@ -1,8 +1,9 @@
 # USER-PROFILE-
 ## Hi ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8B-yellow)
-i am srestasri from MGIT
-### done with the schooling in MLG
+### i am srestasri from MGIT
+### done with the schooling in ATS in MLG
 ### future goals is to get a job 
+My skills include:-
 ![Static Badge](https://img.shields.io/badge/C-orange)
 ![Static Badge](https://img.shields.io/badge/java-pink)
 ![Static Badge](https://img.shields.io/badge/python-blue)
