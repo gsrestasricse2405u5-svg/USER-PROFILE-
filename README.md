@@ -2,7 +2,7 @@
 ## Hi ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8B-white)
 ## i am srestasri from MGIT
 ### done with the schooling in ATS in MLG
-### future goals is to get a job 
+### future goal is to get a job 
 My skills include:- 
 
 ![Static Badge](https://img.shields.io/badge/C-orange)
