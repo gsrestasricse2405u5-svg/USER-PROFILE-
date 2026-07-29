@@ -1,5 +1,5 @@
 # USER-PROFILE-
-## Hi ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8B)
+## Hi ![Static Badge](https://img.shields.io/badge/%F0%9F%91%8B-white)
 ## i am srestasri from MGIT
 ### done with the schooling in ATS in MLG
 ### future goals is to get a job 
