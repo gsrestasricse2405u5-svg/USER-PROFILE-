@@ -3,7 +3,8 @@
 ## i am srestasri from MGIT
 ### done with the schooling in ATS in MLG
 ### future goals is to get a job 
-My skills include:-
+My skills include:- 
+
 ![Static Badge](https://img.shields.io/badge/C-orange)
 ![Static Badge](https://img.shields.io/badge/java-pink)
 ![Static Badge](https://img.shields.io/badge/python-blue)
