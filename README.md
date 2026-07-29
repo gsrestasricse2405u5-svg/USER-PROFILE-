@@ -1,7 +1,7 @@
 # USER-PROFILE-
 ## i am srestasri from MGIT
 ->done with the schooling in MLG
-->future goals is to get a job 
+###->future goals is to get a job 
 ![Static Badge](https://img.shields.io/badge/C-orange)
 ![Static Badge](https://img.shields.io/badge/java-pink)
 ![Static Badge](https://img.shields.io/badge/python-blue)
