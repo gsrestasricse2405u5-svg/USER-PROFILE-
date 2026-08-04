@@ -4,14 +4,14 @@
 ### done with the schooling in ATS in MLG
 ### future goal is to get a job 
 ## My skills include: 
-### programming languages
+#### programming languages
 
 ![Static Badge](https://img.shields.io/badge/C-orange)
 ![Static Badge](https://img.shields.io/badge/java-pink)
 ![Static Badge](https://img.shields.io/badge/python-blue)
 ![Static Badge](https://img.shields.io/badge/DS-skyblue)
 
-## Programming Concepts
+#### Programming Concepts
 
 https://img.shields.io/badge/Datastructures-green
 
