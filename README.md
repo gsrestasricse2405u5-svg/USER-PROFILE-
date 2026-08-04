@@ -13,8 +13,6 @@
 
 #### Programming Concepts
 
-https://img.shields.io/badge/Datastructures-green
-
 ![Static Badge](https://img.shields.io/badge/Datastructures-green)
 ![Static Badge](https://img.shields.io/badge/Java-violet)
 
